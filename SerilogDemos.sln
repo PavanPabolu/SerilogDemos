@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.ConsoleFile.WebAPI", "Serilog.ConsoleFile.WebAPI\Serilog.ConsoleFile.WebAPI.csproj", "{E41A00DD-D4DB-4594-8B71-F05BC8E1A6A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.AzureApplicationInsight.WebAPI", "Serilog.AzureApplicationInsight.WebAPI\Serilog.AzureApplicationInsight.WebAPI.csproj", "{7D383D6E-3570-4221-814E-57E54192FD40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E41A00DD-D4DB-4594-8B71-F05BC8E1A6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41A00DD-D4DB-4594-8B71-F05BC8E1A6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41A00DD-D4DB-4594-8B71-F05BC8E1A6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41A00DD-D4DB-4594-8B71-F05BC8E1A6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D383D6E-3570-4221-814E-57E54192FD40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D383D6E-3570-4221-814E-57E54192FD40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D383D6E-3570-4221-814E-57E54192FD40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D383D6E-3570-4221-814E-57E54192FD40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF475535-7BB8-45AB-A721-FF2F2C2D1039}
+	EndGlobalSection
+EndGlobal

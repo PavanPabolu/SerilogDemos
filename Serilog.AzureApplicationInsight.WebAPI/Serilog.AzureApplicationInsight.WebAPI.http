@@ -1,0 +1,6 @@
+@Serilog.AzureApplicationInsight.WebAPI_HostAddress = http://localhost:5187
+
+GET {{Serilog.AzureApplicationInsight.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
